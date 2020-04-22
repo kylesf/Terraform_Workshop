@@ -1,0 +1,18 @@
+# Module Directory
+.terraform
+.terraform.*
+
+# Secrets
+terraform.tfvars
+
+# Mac File
+.DS_Store
+
+# Created state files
+*.tfstate
+*.tfstate.backup
+
+Compressed Files
+*.tar.gz
+
+*.txt
